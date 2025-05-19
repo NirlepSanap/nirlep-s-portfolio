@@ -99,7 +99,7 @@ const ProjectCard = ({
 const Works = () => {
   useEffect(() => {
     // Stagger effect for project cards
-    gsap.fromTo(
+    gsap.fromTo(  
       ".project-card", // Select all project cards
       {
         opacity: 0,
