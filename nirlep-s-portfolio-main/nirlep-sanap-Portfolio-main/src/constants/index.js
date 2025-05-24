@@ -63,7 +63,7 @@ const services = [
     icon: web,
   },
   {
-    title: "Frontend Developer",
+    title: "Data Scientist",
     icon: mobile,
   },
   {
@@ -71,7 +71,7 @@ const services = [
     icon: backend,
   },
   {
-    title: "Ui UX Designer",
+    title: "Frontend Developer",
     icon: creator,
   },
 ];
@@ -94,34 +94,34 @@ const technologies = [
     icon: reactjs,
   },
   {
-    name: "gsap",
-    icon: gsap,
+    name: "Python",
+    icon: Python,
   },
   {
-    name: "framer",
-    icon: framer,
+    name: "Streamlit",
+    icon: streamlit,
   },
 
  
   {
-    name: "Three JS",
-    icon: threejs,
+    name: "Langchain",
+    icon: langchain,
   },
   {
     name: "figma",
     icon: figma,
   },
   {
-    name: "Redux Toolkit",
-    icon: redux,
+    name: "Power BI",
+    icon: powerbi,
   },
   {
     name: "Tailwind CSS",
     icon: tailwind,
   },
   {
-    name: "Material Ui",
-    icon: mui,
+    name: "glitch",
+    icon: glitch,
   },
   {
     name: "Node JS",
